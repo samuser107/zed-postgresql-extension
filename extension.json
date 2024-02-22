@@ -1,0 +1,9 @@
+{
+  "name": "PostgreSQL",
+  "version": "0.0.1",
+  "authors": [
+    "Samuser107 L.Longheval <samuser107@gmail.com>"
+  ],
+  "description": "Provides PostgreSQL highlighting for Zed",
+  "repository": "https://github.com/samuser107/zed-postgresql-extension"
+}
