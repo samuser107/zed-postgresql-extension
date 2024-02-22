@@ -1,4 +1,4 @@
-name = "SQL"
+name = "PostgreSQL"
 grammar = "sql"
 pathSuffixes = ["sql"]
 lineComments = ["-- "]
